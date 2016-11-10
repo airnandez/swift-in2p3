@@ -13,7 +13,7 @@ How to use OpenStack Swift at CC-IN2P3
 Introduction
 ------------
 
-CC-IN2P3 is operating an experimental installation of the OpenStack object store, also known as `Swift <https://www.openstack.org/software/releases/mitaka/components/swift>`_ . Swift allows you to store objects and retrieve them easily from any connected computer. In this context, an *object* is an opaque sequence of bytes uniquely identified by its name.
+`CC-IN2P3 <http://cc.in2p3.fr/>`_ is operating an experimental installation of the OpenStack object store, also known as `Swift <https://www.openstack.org/software/releases/mitaka/components/swift>`_ . Swift allows you to store objects and retrieve them easily from any connected computer. In this context, an *object* is an opaque sequence of bytes uniquely identified by its name.
 
 This document briefly presents how to get started using Swift.
 
