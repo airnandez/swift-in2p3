@@ -134,7 +134,7 @@ Support
 
 If you are experiencing issues, please contact the author directly: if you are reading this document it is very likely you know how to reach him.
 
-Alternatively, open an issue in github but please don't add your credentials in your report as github issues are public.
+Alternatively, `open an issue in github.com <https://github.com/airnandez/swift-in2p3/issues>`_ but please don't add your credentials in your report as github issues are public.
 
 -------
 Credits
