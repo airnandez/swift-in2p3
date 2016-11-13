@@ -7,8 +7,7 @@
 How to use OpenStack Swift at CC-IN2P3
 ======================================
 
-.. toctree::
-   :maxdepth: 2
+.. contents:: :depth: 2
 
 ------------
 Introduction
